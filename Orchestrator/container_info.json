@@ -1,0 +1,42 @@
+{
+    "container 1": {
+        "ip": "34.201.69.200",
+        "port": "5001",
+        "status": "free"
+    },
+    "container 2": {
+        "ip": "34.201.69.200",
+        "port": "5002",
+        "status": "free"
+    },
+    "container 3": {
+        "ip": "54.210.161.38",
+        "port": "5001",
+        "status": "free"
+    },
+    "container 4": {
+        "ip": "54.210.161.38",
+        "port": "5002",
+        "status": "free"
+    },
+    "container 5": {
+        "ip": "3.90.221.175",
+        "port": "5001",
+        "status": "free"
+    },
+    "container 6": {
+        "ip": "3.90.221.175",
+        "port": "5002",
+        "status": "free"
+    },
+    "container 7": {
+        "ip": "54.221.159.39",
+        "port": "5001",
+        "status": "free"
+    },
+    "container 8": {
+        "ip": "54.221.159.39",
+        "port": "5002",
+        "status": "free"
+    }
+}

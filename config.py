@@ -1,0 +1,8 @@
+security_group_name='TP2'
+key_name='vockey'
+key_path='vockey.pem'
+region_name = 'us-east-1'
+orchestrator_ip = '54.91.248.25'
+aws_access_key_id='ASIA34DWVFAW3VFO6CCE'
+aws_secret_access_key='UCUSZzNox39PlSlGtgJJiU2NveKLZJlCEwEDLuTb'
+aws_session_token='FwoGZXIvYXdzEL7//////////wEaDIDMx+gRsb6FKu5VRSLQASyd2DocF2VgI1GlkgHX4xxJ/P4KX8wsXQOP+QLdzE7owRITKEWMEv16Pq2uyj9IUiqH6hv8oNbtYdlrg50fJkI/2WIxzPfAiXALOmwsNZ2wUMK4n5HBja15FeqtMua6VtpMJun/rSpNlpKmv89L3Bn9suB04jMrhlK/tpFfA9ZnqUMBLkTEYKwRuNGK+1LlIs4wtyHEgbmVjZ7DvpYgdOCsBUGe9fwe6YJ39YZMQ747tjWeTXfgYUd2NfBayXDFfNOT6nIvm/d8rDlRCzfvFVEoo5LvqgYyLdk3E0zGSHMjGNDZP5CU6XLbdfQPi5psaC1sbFGFttnwLu8xzN1UaYsXtWGAlA=='
