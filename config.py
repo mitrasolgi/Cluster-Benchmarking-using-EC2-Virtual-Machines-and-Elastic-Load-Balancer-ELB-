@@ -1,8 +1,0 @@
-security_group_name=''
-key_name=''
-key_path=''
-region_name = 'us-east-1'
-orchestrator_ip = ''
-aws_access_key_id=''
-aws_secret_access_key=''
-aws_session_token=''
