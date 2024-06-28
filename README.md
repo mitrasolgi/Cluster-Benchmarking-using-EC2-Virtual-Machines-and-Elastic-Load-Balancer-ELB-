@@ -43,8 +43,4 @@ This is a summary of how the files work and how you run the latest version of th
 
 8. Terminate instances using `terminate_instances.py`
 
-## What is left to do?
 
-- Add queue logic to the `Orchestrator/app.py` file
-
-- Upgrade the `generate_requests.py` file to dynamically get the IP adress and to generate 5 requests instead of one 
